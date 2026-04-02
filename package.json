@@ -1,0 +1,15 @@
+{
+  "name": "babylongame",
+  "version": "1.0.0",
+  "description": "babylon with node backend for updated content",
+  "main": "server.js",
+  "scripts": {
+     "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
